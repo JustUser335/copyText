@@ -1,10 +1,10 @@
 # copyText
 <div>
     <div>
-        <span id="copy1">textt copy 1</span> <button data-id="copy1" class="copy">x1</button><br>
-        <span id="copy2">textt copy 2</span> <button data-id="copy2" class="copy">x2</button><br>
-        <span id="copy3">textt copy 3</span> <button data-id="copy3" class="copy">x3</button><br>
-        <span id="copy4">textt copy 4</span> <button data-id="copy4" class="copy">x4</button><br>
+        <span id="copy1">textt copy 1</span> <button data-id="copy1" class="copy">button1</button><br>
+        <span id="copy2">textt copy 2</span> <button data-id="copy2" class="copy">button2</button><br>
+        <span id="copy3">textt copy 3</span> <button data-id="copy3" class="copy">button3</button><br>
+        <span id="copy4">textt copy 4</span> <button data-id="copy4" class="copy">button4</button><br>
     </div>
     <input type="text" style="display:none" id="copyTextInput" value="">
 </div>
