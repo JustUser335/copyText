@@ -1,12 +1,15 @@
 # copyText
 <div>
-    <div class="cp"><span>ОГРН</span> <div><span id="ogrn">11612312355820</span> <span data-id="ogrn" class="copy"></span></div></div>
-    <div class="cp"><span>ИНН</span>  <div><span id="inn">9123123120024</span>   <span data-id="inn" class="copy"></span></div></div>
-    <div class="cp"><span>КПП</span>  <div><span id="kpp">772221001</span>       <span data-id="kpp" class="copy"></span></div></div>
-    <div class="cp"><span>ОКПО</span> <div><span id="okpo">01235105</span>       <span data-id="okpo" class="copy"></span></div></div>
+    <div>
+        <span id="copy1">textt copy 1</span> <span data-id="copy1" class="copy">x1</span>
+        <span id="copy2">textt copy 2</span> <span data-id="copy2" class="copy">x2</span>
+        <span id="copy3">textt copy 3</span> <span data-id="copy3" class="copy">x3</span>
+        <span id="copy4">textt copy 4</span> <span data-id="copy4" class="copy">x4</span>
+    </div>
+    <input type="text" style="display:none" id="copyTextInput" value="">
 </div>
-<input type="text" style="display:none" id="copyTextInput" value="">
-
+<br>
+<br>
 обрабатывает .copy<br>
 забирает data-id от copy<br>
 обрабатывает элемент c id == data-id<br>
