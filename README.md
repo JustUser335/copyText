@@ -7,12 +7,12 @@
 </div>
 <input type="text" style="display:none" id="copyTextInput" value="">
 
-обрабатывает .copy
-забирает data-id от copy
-обрабатывает элемент c id == data-id
-забирает текст id el
-вставляет его в input#copyTextInput
-выделяет value input
-копирует его
-выбрасывает alert, если всё успешно
-(можно запилить подсветку копированного элемента вместо alert)
+обрабатывает .copy<br>
+забирает data-id от copy<br>
+обрабатывает элемент c id == data-id<br>
+забирает текст id el<br>
+вставляет его в input#copyTextInput<br>
+выделяет value input<br>
+копирует его<br>
+выбрасывает alert, если всё успешно<br>
+(можно запилить подсветку копированного элемента вместо alert)<br>
