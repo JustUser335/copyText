@@ -10,12 +10,12 @@
 </div>
 <br>
 <br>
-обрабатывает .copy<br>
-забирает data-id от copy<br>
-обрабатывает элемент c id == data-id<br>
-забирает текст id el<br>
-вставляет его в input#copyTextInput<br>
-выделяет value input<br>
-копирует его<br>
-выбрасывает alert, если всё успешно<br>
+handles .copy<br>
+taking data-id from copy<br>
+handles element c id == data-id<br>
+taking text id el<br>
+past text in input#copyTextInput<br>
+select value input<br>
+copies him<br>
+return alert, if all succes<br>
 (можно запилить подсветку копированного элемента вместо alert)<br>
